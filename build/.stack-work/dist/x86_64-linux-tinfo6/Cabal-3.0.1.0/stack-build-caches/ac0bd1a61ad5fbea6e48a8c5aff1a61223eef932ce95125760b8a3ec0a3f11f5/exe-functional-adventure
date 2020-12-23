@@ -1,10 +1,16 @@
+/home/jdw23/PokeScript/build/src/Command.hs:
+  hash: 389664141ba6420b4c6c9fb05447d2c6e7650e0b9ba5f41861b4b3a6507a01c7
 /home/jdw23/PokeScript/build/build.cabal:
-  hash: b98387bf0844e1fec3084639ddb8398ac08d9b63f19015ff8b3cfd10429b25bb
-/home/jdw23/PokeScript/build/src/Test.hs:
-  hash: 2b977a2b9737337c2bb0d6fdb972e07ec9e21b9514192abf34a0979e8f5be75d
+  hash: a7497db1642f14aec008da17419302d2128e4febf7f8ce1a8e0ceacc4b410c47
+/home/jdw23/PokeScript/build/src/Initialize.hs:
+  hash: 6b0e4e0a1ea030f6a1f945cc4e27dd9645e683ec8e0c2b4f3da95c9301a5ab23
+/home/jdw23/PokeScript/build/src/ParseCSV.hs:
+  hash: 2b05e7bf70d84d97da0104913725c2f832c77e22b6000ecb03c3630e62c16fa8
 /home/jdw23/PokeScript/build/README.md:
   hash: e2824b547eab952da1f090d78a01e5354c309b1e0141c2a4c98ec49265492cef
 /home/jdw23/PokeScript/build/src/Pokemon.hs:
-  hash: 4abbade0ac44f4fead8f31682f751274d3638aa387fd5649305904b828aed576
+  hash: 729f0b4019619e4b1152009d8cac01a493dcdb8e58668ba450becbda0cf8ca37
+/home/jdw23/PokeScript/build/src/Attack.hs:
+  hash: 99adbb97c5bfb56bc13dd160e6ccbe09219a6c93637aace42a80a884f07b797f
 /home/jdw23/PokeScript/build/src/Main.hs:
   hash: 109c45ae3c0d66457fe5b0ad63de9c0021f10b00bdf710dc659d945d3e2e4d28

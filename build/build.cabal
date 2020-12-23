@@ -16,15 +16,21 @@ extra-source-files:  README.md
 library
   hs-source-dirs:      src
   default-language:    Haskell2010
-  build-depends:       base,
-                       HUnit
-  exposed-modules:     Pokemon,
-                       Test
+  build-depends:       base
+                       , containers
+  exposed-modules:     Pokemon
+                       , Command
+                       , Attack
+                       , ParseCSV
+                       , Initialize
 executable functional-adventure
   hs-source-dirs:      src
   main-is:             Main.hs
   default-language:    Haskell2010
   build-depends:       base
-                      , HUnit
-  other-modules:       Pokemon,
-                       Test
+                      , containers
+  other-modules:       Pokemon
+                      , Command
+                      , Attack
+                      , ParseCSV
+                      , Initialize

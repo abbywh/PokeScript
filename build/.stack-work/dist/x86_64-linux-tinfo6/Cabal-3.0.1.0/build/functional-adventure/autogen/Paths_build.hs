@@ -30,7 +30,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/bin"
-libdir     = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/lib/x86_64-linux-ghc-8.8.4/build-0.1.0.0-HgJQeKMnfLW2w4IhfvRldO-functional-adventure"
+libdir     = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/lib/x86_64-linux-ghc-8.8.4/build-0.1.0.0-KjPgTdeoaANBnSSn9KFuEM-functional-adventure"
 dynlibdir  = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/lib/x86_64-linux-ghc-8.8.4"
 datadir    = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/share/x86_64-linux-ghc-8.8.4/build-0.1.0.0"
 libexecdir = "/home/jdw23/PokeScript/build/.stack-work/install/x86_64-linux-tinfo6/ac0bd1a61ad5fbea6e48a8c5aff1a61223eef932ce95125760b8a3ec0a3f11f5/8.8.4/libexec/x86_64-linux-ghc-8.8.4/build-0.1.0.0"

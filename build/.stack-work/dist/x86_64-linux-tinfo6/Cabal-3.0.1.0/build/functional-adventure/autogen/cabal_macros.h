@@ -11,17 +11,6 @@
   (major1) == 0 && (major2) == 1 && (minor) <= 0)
 #endif /* MIN_VERSION_build */
 
-/* package HUnit-1.6.1.0 */
-#ifndef VERSION_HUnit
-#define VERSION_HUnit "1.6.1.0"
-#endif /* VERSION_HUnit */
-#ifndef MIN_VERSION_HUnit
-#define MIN_VERSION_HUnit(major1,major2,minor) (\
-  (major1) <  1 || \
-  (major1) == 1 && (major2) <  6 || \
-  (major1) == 1 && (major2) == 6 && (minor) <= 1)
-#endif /* MIN_VERSION_HUnit */
-
 /* package base-4.13.0.0 */
 #ifndef VERSION_base
 #define VERSION_base "4.13.0.0"
@@ -32,6 +21,17 @@
   (major1) == 4 && (major2) <  13 || \
   (major1) == 4 && (major2) == 13 && (minor) <= 0)
 #endif /* MIN_VERSION_base */
+
+/* package containers-0.6.2.1 */
+#ifndef VERSION_containers
+#define VERSION_containers "0.6.2.1"
+#endif /* VERSION_containers */
+#ifndef MIN_VERSION_containers
+#define MIN_VERSION_containers(major1,major2,minor) (\
+  (major1) <  0 || \
+  (major1) == 0 && (major2) <  6 || \
+  (major1) == 0 && (major2) == 6 && (minor) <= 2)
+#endif /* MIN_VERSION_containers */
 
 /* tool alex-3.2.4 */
 #ifndef TOOL_VERSION_alex
@@ -166,7 +166,7 @@
 #endif /* MIN_TOOL_VERSION_strip */
 
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "build-0.1.0.0-HgJQeKMnfLW2w4IhfvRldO-functional-adventure"
+#define CURRENT_COMPONENT_ID "build-0.1.0.0-KjPgTdeoaANBnSSn9KFuEM-functional-adventure"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "0.1.0.0"
